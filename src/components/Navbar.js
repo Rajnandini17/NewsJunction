@@ -5,8 +5,8 @@ export default function Navbar() {
   return (
     <div>
         {/* <nav className="navbar navbar-expand-lg navbar-dark bg-dark" > */}
-        <nav className="navbar navbar-expand-lg" style={{ backgroundColor: '#1D2B53' }}>
-  <div className="container-fluid">
+      <nav className="navbar fixed-top navbar-expand-lg" style={{ backgroundColor: '#1D2B53' }}>
+      <div className="container-fluid">
     <Link className="navbar-brand" style={{ color: '#FAEF5D' }} to="/">NewsJunction </Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
