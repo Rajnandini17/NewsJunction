@@ -1,6 +1,6 @@
 # NewsJunction
 
-NewsJunction, created using ReactJs, delivers news from various categories, including business, sports, technology, weather, and national and international news, providing a one-stop solution for your daily dose of information.
+## NewsJunction, created using ReactJs, delivers news from various categories, including business, sports, technology, weather, and national and international news, providing a one-stop solution for your daily dose of information.
 
 <br>
 
